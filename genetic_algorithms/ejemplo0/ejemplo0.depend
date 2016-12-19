@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1358988889 source:/home/nihilant/Documents/Materias/Algoritmos Geneticos/Ejemplos/ejemplo0/clase_ag.cpp
+	"clase_ag.hpp"
+
+1358882227 /home/nihilant/Documents/Materias/Algoritmos Geneticos/Ejemplos/ejemplo0/clase_ag.hpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1358866989 source:/home/nihilant/Documents/Materias/Algoritmos Geneticos/Ejemplos/ejemplo0/extra_ag.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1358988777 source:/home/nihilant/Documents/Materias/Algoritmos Geneticos/Ejemplos/ejemplo0/main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"clase_ag.hpp"
+
+1359031096 source:c:\users\owner\desktop\estudios\algoritmos genéticos - ec5723\codigo\ejemplos\ejemplo0\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"clase_ag.hpp"
+
+1358882228 c:\users\owner\desktop\estudios\algoritmos genéticos - ec5723\codigo\ejemplos\ejemplo0\clase_ag.hpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1359030475 source:c:\users\owner\desktop\estudios\algoritmos genéticos - ec5723\codigo\ejemplos\ejemplo0\clase_ag.cpp
+	"clase_ag.hpp"
+
+1359031136 source:c:\users\owner\documents\programas_c\ejemplo0\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"clase_ag.hpp"
+
+1358882228 c:\users\owner\documents\programas_c\ejemplo0\clase_ag.hpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1359030475 source:c:\users\owner\documents\programas_c\ejemplo0\clase_ag.cpp
+	"clase_ag.hpp"
+
+1359032038 source:c:\users\owner\documents\programas_c\alg_gen\ejemplo0\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"clase_ag.hpp"
+
+1358882228 c:\users\owner\documents\programas_c\alg_gen\ejemplo0\clase_ag.hpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1359030475 source:c:\users\owner\documents\programas_c\alg_gen\ejemplo0\clase_ag.cpp
+	"clase_ag.hpp"
+

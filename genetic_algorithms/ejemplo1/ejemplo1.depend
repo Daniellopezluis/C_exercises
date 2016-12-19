@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1358991946 source:c:\users\owner\desktop\estudios\algoritmos genéticos - ec5723\codigo\ejemplos\ejemplo1\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"clase_ag.hpp"
+	"extra_ag.cpp"
+
+1358882228 c:\users\owner\desktop\estudios\algoritmos genéticos - ec5723\codigo\ejemplos\ejemplo1\clase_ag.hpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1358866990 c:\users\owner\desktop\estudios\algoritmos genéticos - ec5723\codigo\ejemplos\ejemplo1\extra_ag.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1359035071 source:c:\users\owner\documents\programas_c\alg_gen\ejemplo1\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"clase_ag.hpp"
+	"extra_ag.cpp"
+
+1358882228 c:\users\owner\documents\programas_c\alg_gen\ejemplo1\clase_ag.hpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1358866990 c:\users\owner\documents\programas_c\alg_gen\ejemplo1\extra_ag.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1359030611 source:c:\users\owner\documents\programas_c\alg_gen\ejemplo1\clase_ag.cpp
+	"clase_ag.hpp"
+
